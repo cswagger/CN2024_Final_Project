@@ -1,4 +1,4 @@
-# CN Final Project
+# Computer Network Final Project
 
 This is a simple server-client implementation using TCP. The project includes functionality for sending messages, files, and even some fun options! Note that only one client is allowed to connect to the server at a time.
 
